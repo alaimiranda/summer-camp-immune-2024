@@ -55,7 +55,7 @@ print("Algo que imprimir")
 ```
 
 
-### Modificar el valor de una variable
+### Concatenación
 
 Una de las operaciones más utilizadas con strings es la concatenación. Esta consiste en unir dos o más strings utilizando el símbolo del operador suma ‘+’.
 
