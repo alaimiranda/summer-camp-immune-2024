@@ -16,7 +16,7 @@ Utilizaremos todas las herramientas, recursos y recomendaciones que utilizan dia
 
 Para ello comenzaremos desde un nivel bajo y poco a poco iremos subiendo la dificultad. No te preocupes si los primeros temas te resultan muy fáciles ya que en muy poco tiempo estaremos haciendo proyectos alucinantes.
 
-## **2. Imprimiendo en pantalla en Python (Print).**
+## **2. Imprimiendo en pantalla en Python (Print)**
 
 La razón por la que aprendemos a programar es para poder decirle a nuestro ordenador qué necesita hacer y poder seguir nuestras instrucciones. Para ello vamos a darle nuestra primera orden al ordenador.
 
@@ -30,8 +30,15 @@ Como se puede observar, la función print() se encarga de darle la orden al orde
 
 Crea un programa en python que muestre la siguiente salida por consola:
 
-````
+```
 La funcion print()
 Se utiliza de la siguiente forma: 
 print("Algo que imprimir")
 ```
+
+## **3. Manipulación de strings**
+## **4. Depuración en Python. (Debugging)**
+## **5. La función Input**
+## **6. Variables en Python**
+## **7. Nombre de las variables**
+## **8. Proyecto: Generador de nicknames**
