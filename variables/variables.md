@@ -21,6 +21,17 @@ Para ello comenzaremos desde un nivel bajo y poco a poco iremos subiendo la difi
 La razón por la que aprendemos a programar es para poder decirle a nuestro ordenador qué necesita hacer y poder seguir nuestras instrucciones. Para ello vamos a darle nuestra primera orden al ordenador.
 
 ```
-nombre = "Alan"
-print(nombre)
+print("Alan")
+```
+
+Como se puede observar, la función print() se encarga de darle la orden al ordenador de imprimir el mensaje por pantalla. Esto quiere decir que cualquier mensaje que le pases a la función va a mostrarlo en la pantalla una vez que le das al botón de Run (ejecutar).
+
+### **Programa 1**
+
+Crea un programa en python que muestre la siguiente salida por consola:
+
+````
+La funcion print()
+Se utiliza de la siguiente forma: 
+print("Algo que imprimir")
 ```
