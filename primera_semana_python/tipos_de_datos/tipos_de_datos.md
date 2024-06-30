@@ -52,7 +52,7 @@ Se van a ver tres funciones que convierten un tipo de dato en otro:
 
 Estas funciones son muy importantes y  las iremos utilizando a lo largo de todo el año.
 
-###**Programa 1**
+### **Programa 1**
 ```
 #Programa1.py
 #Explica a tu profesor qué crees que es lo que está pasando con la salida de cada tipo de datos.
