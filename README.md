@@ -14,17 +14,17 @@ Un repositorio en GitHub es un espacio de almacenamiento en la nube donde puedes
 
 El repositorio está estructurado en carpetas y archivos de la siguiente manera:
 
-ORGANIZACIÓN
-
 ## Primera Semana: Python Básico
 
-Durante la primera semana, aprenderemos los conceptos básicos de Python, organizados en los siguientes temas:
+Durante la primera semana, aprenderemos los conceptos básicos de Python, organizados en los siguientes bloques:
 
 1. **Introducción**: Una visión general de Python, su historia y aplicaciones.
-2. **Variables y Tipos de Datos**: Cómo declarar variables y entender los diferentes tipos de datos en Python.
-3. **Control de Flujo**: Uso de estructuras condicionales (`if`, `else`, `elif`) para controlar el flujo del programa.
-4. **Bucles**: Uso de bucles (`for`, `while`) para repetir acciones.
-5. **Funciones**: Cómo definir y usar funciones para organizar y reutilizar el código.
+2. **Variables**: Cómo declarar variables y entender los diferentes tipos de datos en Python.
+3. **Tipos de Datos**
+4. **Control de Flujo**: Uso de estructuras condicionales (`if`, `else`, `elif`) para controlar el flujo del programa.
+5. **Randomización y listas**
+6. **Bucles**: Uso de bucles (`for`, `while`) para repetir acciones.
+7. **Funciones**: Cómo definir y usar funciones para organizar y reutilizar el código.
 
 Cada tema tiene su propio directorio que contiene:
 
@@ -37,9 +37,9 @@ En la segunda semana, nos adentraremos en el uso de la Raspberry Pi para proyect
 
 1. **Introducción a Raspberry Pi**: Conceptos básicos y configuración inicial.
 2. **Manejo de GPIOs**: Cómo controlar los pines GPIO de la Raspberry Pi.
-3. **Sensores**: Conexión y uso de diferentes sensores (temperatura, humedad, etc.).
-4. **Servos y Motores**: Control de servos y motores para proyectos de robótica.
-5. **LEDs y Displays**: Cómo trabajar con LEDs y displays para mostrar información.
+3. **LEDs**: Cómo trabajar con LEDs para mostrar información.
+4. **Sensores**: Conexión y uso de diferentes sensores.
+5. **Servos y Motores**: Control de servos y motores para proyectos de robótica.
 
 Cada tema contiene:
 
