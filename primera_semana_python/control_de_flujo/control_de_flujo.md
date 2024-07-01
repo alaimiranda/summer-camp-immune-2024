@@ -1,4 +1,9 @@
-# **Control de flujo y operadores lógicos**
+# **Tema 3. Control de flujo y operadores lógicos**
+1. Repaso de tipos booleanos.
+2. Operadores de comparación.
+3. Operadores lógicos.
+4. Control de flujo con if, elif y else.
+5. Proyecto: La pizzería.
 
 ## **1. Repaso de tipos booleanos**
 

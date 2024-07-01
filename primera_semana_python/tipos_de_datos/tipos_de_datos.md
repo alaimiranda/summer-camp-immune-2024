@@ -1,4 +1,4 @@
-# **Entendiendo los tipos de datos y fstrings.**
+# **Tema 2. Entendiendo los tipos de datos y fstrings.**
 1. Tipos de datos primitivos en Python.
 2. Función type().
 3. Conversión de datos.
