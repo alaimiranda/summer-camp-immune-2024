@@ -60,12 +60,9 @@ Escribe un programa que simulará aleatoriamente el lanzamiento de una moneda.
 
 ```
 #Programa2.py
-import random
-
-moneda = random.randint(0,1)
 ```
 
-## 2. Listas
+## **2. Listas**
 
 La primera estructura de datos que veremos son las **listas**. Éstas son un conjunto de elementos ordenados separados por comas y escritos entre corchetes, `[]`.
 
@@ -80,7 +77,7 @@ lista = ["Alba", 12, 1.65, True]
 print(f"Mi lista es: {lista} y su tipo es: {type(lista)}")
 ```
 
-## 3. Tamaño de una lista
+## **3. Tamaño de una lista**
 
 Para saber la longitud o el tamaño de una lista, podemos hacer uso de la función `len()`
 
@@ -90,7 +87,7 @@ longitud = len(l)
 print(f"Longitud: {longitud}")
 ```
 
-## 4. Elementos de una lista
+## **4. Elementos de una lista**
 
 Cada elemento en la lista tiene su propio índice.
 
@@ -108,7 +105,7 @@ print(f"Hoy ha venido a clase: {alumnos[0]}, {alumnos[2]} y {alumnos[4]}")
 
 **¡Cuidado!** En `Python`, los índices siempre empiezan en 0. De este modo, al primer elemento le corresponde el índice 0; al segundo, el índice 1; y al $n$-ésimo, le corresponde el índice $n−1$.
 
-## 5. Proyecto: Selector de nombres aleatorios
+## **5. Proyecto: Selector de nombres aleatorios**
 
 En este programa vamos a hacer un selector de nombres aleatorios. Los usos que les puedes dar a este programa son diversos:
 

@@ -196,7 +196,7 @@ Ejemplos de ejecución:
 #Programa3.py
 ```
 
-# 5. Proyecto: La pizzería
+## 5. Proyecto: La pizzería
 
 En este proyecto vas a ser el encargado de tomar las comandas de los clientes de una pizzería y de entregar la cuenta a los clientes. Para ello utilizarás uso de variables, fstrings, operadores lógicos...
 
