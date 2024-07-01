@@ -8,7 +8,6 @@
 ```
 es_jueves = True
 type(es_jueves)
-
 ```
 
 **Nota.** Observad que tanto `True` como `False` únicamente tienen la primera letra mayúscula.
@@ -47,7 +46,6 @@ a = 3
 b = 4
 
 print(f"a > b: {a > b}")
-
 ```
 
 ## **3. Operadores lógicos**
@@ -130,7 +128,6 @@ if edad >= 8 and edad <= 18:
     print("Puedes formar parte de Young Immuners")
 else:
     print("No puedes formar parte de Young Immuners")
-
 ```
 
 ### **elif**
@@ -140,7 +137,6 @@ Ahora, en vez de comprobar si se cumple o no una condición, nos podríamos preg
 El operador `elif` funciona del siguiente modo: se empieza con un operador `if`; si la condición de este no se cumple, pasamos a la siguiente condición posible precedida de un `elif`; si esta tampoco se cumple, pasamos al siguiente `elif`; seguimos así hasta que o bien se satisface alguna condición y realizamos su consecuencia, o hasta llegar al `else`, que implica que no se ha satisfecho ninguna de las condiciones anteriores.
 
 La sintaxis del operador de decisión `elif` es la siguiente:
-
 
 ```
 if condición_1:
@@ -180,7 +176,6 @@ Crea un programa que le pida al usuario un número y le diga a este si es par o 
 
 Ejemplos de ejecución:
 ```
-
     Introduce un numero: 7
     El numero 7 es impar.
 ```
@@ -194,7 +189,6 @@ Ejemplos de ejecución:
 
 ```
 #Programa3.py
-
 ```
 
 # 5. Proyecto: La pizzería
