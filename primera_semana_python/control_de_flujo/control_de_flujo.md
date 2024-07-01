@@ -2,8 +2,6 @@
 
 ## **1. Repaso de tipos booleanos**
 
-<img src="https://i.ibb.co/wcBmVZg/descarga.png" alt="descarga" border="0" height="300"></a>
-
 **Dato booleano.** Es un tipo de dato que solamente puede tomar 2 valores: **`True`** (verdadero) o **`False`** (falso).
 
 **Variable lógica.** Variable que almacena datos booleanos.
@@ -64,7 +62,6 @@ Imagina que para los siguientes ejemplos tenemos declaradas dos variables tipo b
 | or | True si uno de los operandos es True | x or y es **True** |
 | not | True si el operando es False (complemento) | not y es **True** |
 
-<img src="https://i.ibb.co/Kj81npF/operadores-booleanos.png" alt="operadores-booleanos" border="0"></a>
 
 ### **Programa 2:**
 
@@ -203,8 +200,6 @@ Ejemplos de ejecución:
 # 5. Proyecto: La pizzería
 
 En este proyecto vas a ser el encargado de tomar las comandas de los clientes de una pizzería y de entregar la cuenta a los clientes. Para ello utilizarás uso de variables, fstrings, operadores lógicos...
-
-<img src="https://i.ibb.co/cg48Ryg/pizza-brazo.png" alt="pizza-brazo" border="0"></a>
 
 Precios del menú:
 
