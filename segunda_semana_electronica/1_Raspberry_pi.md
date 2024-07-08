@@ -36,12 +36,15 @@ Un circuito cerrado es un camino completo que permite el flujo de electricidad d
 Una resistencia es un componente electrónico pasivo que limita el flujo de corriente en un circuito. Se utiliza para proteger otros componentes, ajustar niveles de señal y dividir tensiones.
 
 ### LEDs (Diodos Emisores de Luz)
+
 Un LED es un dispositivo semiconductor que emite luz cuando se le aplica una corriente eléctrica. Los LEDs son muy eficientes y se utilizan en una variedad de aplicaciones.
 
 ### Servomotores de 180 Grados
+
 Un servomotor es un dispositivo que puede girar a posiciones específicas dentro de un rango de 180 grados. Son muy útiles para aplicaciones de robótica.
 
-### Potenciómetros
+### Potenciómetros
+
 Un potenciómetro es una resistencia variable que puedes ajustar para cambiar la cantidad de resistencia en un circuito. Se utiliza a menudo para controlar la intensidad de una señal.
 
 Con estos conceptos y ejemplos, estás listo para comenzar a experimentar con tus componentes electrónicos utilizando la Raspberry Pi. ¡Diviértete creando tus propios proyectos!
